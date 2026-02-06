@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🖼️ Image Processing & Computer Vision Toolkit  
+#  Image Processing & Computer Vision Toolkit  
 ### *Gaussian Blur • Gradients • Segmentation • Contours • Video Processing • Webcam Mode*
 
 </div>
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This repository contains a collection of **image and video processing techniques** implemented with **OpenCV**, **NumPy**, and **Matplotlib**.  
 It demonstrates fundamental computer vision operations such as:
@@ -26,7 +26,7 @@ and operations affect images and video data.
 
 ---
 
-## 🎯 Project Purpose
+##  Project Purpose
 
 This project was created to demonstrate how classical computer vision techniques work:
 
@@ -56,7 +56,7 @@ so this project is a great practical introduction.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **OpenCV**
@@ -65,35 +65,35 @@ so this project is a great practical introduction.
 
 ---
 
-## 🧪 Features Included
+##  Features Included
 
-### 🔹 1. Gaussian Filters  
+###  1. Gaussian Filters  
 Compares blurring with kernel sizes: **3×3, 5×5, 9×9, 15×15**
 
-### 🔹 2. Image Resizing + Gradients  
+###  2. Image Resizing + Gradients  
 Resizes the image and computes **Sobel gradients** on X and Y axes.
 
-### 🔹 3. Segmentation  
+###  3. Segmentation  
 Converts image → grayscale → blur → thresholding.
 
-### 🔹 4. Video Frame Analysis  
+###  4. Video Frame Analysis  
 Loads the **first frame of a video** and extracts gradients + blur.
 
-### 🔹 5. Filter Comparison  
+###  5. Filter Comparison  
 Shows difference between:
 - Gaussian blur  
 - Median filter  
 - Bilateral filter  
 
-### 🔹 6. Contour Detection  
+###  6. Contour Detection  
 Extracts object edges and draws contours.
 
-### 🔹 7. Webcam Processing  
+###  7. Webcam Processing  
 Applies blur + edge detection in **real time**.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Install required packages:
 
